@@ -60,17 +60,10 @@
 <!-- Tab Bar Ends-->
 
 	    <!-- Arrivals-->
-	    <style>
-	    div.relative { 
-	    position: static;
-	    left: 1000px;
-	    border: 0px
-	        <div> 
-	        <div style="background-color:black;color:white; width:1000px; height:500px;"></div>
+	        <div style="background-color:black;color:white; width:900px; height:500px;"></div>
 		
-	       </div>
 	    <!-- Arrivals end section--> 
 	   
 
-	      <!-- </body>-->
+<!-- </body>-->
 <!-- </html>-->
