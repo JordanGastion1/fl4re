@@ -60,13 +60,11 @@
 <!-- Tab Bar Ends-->
 
 	    <!-- Arrivals-->
-	    body {
- font-family: "Mono Space", Roboto, mono;
-    font-size: 13pt;
-    background-color: #fffff;
-    padding: 10px;
-    margin: 25;
-}
+	    <style>
+	    div.relative { 
+	    position: static;
+	    left: 1000px;
+	    border: 0px
 	        <div> 
 	        <div style="background-color:black;color:white; width:1000px; height:500px;"></div>
 		
