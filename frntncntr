@@ -9,4 +9,10 @@ Clothing, Accessories, & More!
 	        <div style="background-color:black;color:deepSkyBlue; width:500px; height:300px;"></div>
 		
 	       </div>
-		
+		body {
+    font-family: "Mono Space", Roboto, mono;
+    font-size: 13pt;
+    background-color: #fffff;
+    padding: 10px;
+    margin: 25;
+}
