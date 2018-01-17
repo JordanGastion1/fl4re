@@ -56,6 +56,7 @@
     <a href="#">NEW</a>
     <a href="#">Clothing</a>
     <a href="#">Accessories</a>
+	  <a href="#">Search</a>	  
   </div>
 <!-- Tab Bar Ends-->
 
