@@ -61,7 +61,7 @@
 
 	    <!-- Arrivals-->
 	        <div> 
-	        <div style="background-color:black;color:white; width:600px; height:500px;"></div>
+	        <div style="background-color:black;color:white; width:1000px; height:500px;"></div>
 		
 	       </div>
 	    <!-- Arrivals end section--> 
