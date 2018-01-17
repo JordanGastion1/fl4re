@@ -3,12 +3,7 @@
 		<title>Home Page</title>
 
 	</head> <img src="fl4re.jpg" alt="icon here">
-	<style>
-	  h1 {
-	      text-align: center;
-	  }
-	</style>
-	<h1>fl4re</h1>
+
 	    <body> <!-- Tab Bar Begins-->
 	    <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -52,8 +47,8 @@
     background-color: deepSkyBlue;
 }
 </style>
-</head>
-<body>
+<!-- </head>-->
+<!-- <body>-->
 
 <div class="dropdown">
   <button class="dropbtn">HOME</button>
@@ -73,4 +68,4 @@
 	   
 
 	       </body>
-</html>
+<!-- </html>-->
