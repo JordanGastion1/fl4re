@@ -10,7 +10,7 @@
 .dropbtn {
     background-color: deepSkyBlue;
     color: white;
-    padding: 40px;
+    padding: 30px;
     font-size: 20px;
     border: none;
     cursor: pointer;
@@ -61,11 +61,11 @@
 
 	    <!-- Arrivals-->
 	        <div> 
-	        <div style="background-color:black;color:white; width:450px; height:300px;"></div>
+	        <div style="background-color:black;color:white; width:600px; height:500px;"></div>
 		
 	       </div>
 	    <!-- Arrivals end section--> 
 	   
 
-	       </body>
+	      <!-- </body>-->
 <!-- </html>-->
