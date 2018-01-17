@@ -2,7 +2,7 @@
 	<head>
 		<title>Home Page</title>
 
-	</head> <img src="fl4re.jpg" alt="icon here">
+	</head> 
 
 	    <body> <!-- Tab Bar Begins-->
 	    <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,7 +10,7 @@
 .dropbtn {
     background-color: deepSkyBlue;
     color: white;
-    padding: 16px;
+    padding: 40px;
     font-size: 20px;
     border: none;
     cursor: pointer;
