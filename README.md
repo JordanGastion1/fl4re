@@ -49,7 +49,13 @@
 </style>
 <!-- </head>-->
 <!-- <body>-->
-
+body {
+ font-family: "Mono Space", Roboto, mono;
+    font-size: 13pt;
+    background-color: #fffff;
+    padding: 10px;
+    margin: 25;
+}
 <div class="dropdown">
   <button class="dropbtn">HOME</button>
   <div class="dropdown-content">
