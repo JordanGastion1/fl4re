@@ -2,7 +2,7 @@
 	<head>
 		<title>Home Page</title>
 
-	</head> <img src="fl4re.jpg" alt="icon here">
+	</head> <img src="accuracyarrow.jpg" alt="icon here">
 	<style>
 	  h1 {
 	      text-align: center;
